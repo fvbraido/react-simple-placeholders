@@ -1,7 +1,6 @@
-import React from 'react'
+import BarLoading from "./BarLoading"
 
-function Component() {
-  return <div>Our package</div>
-}
+import SimplePlaceholder from "./SimplePlaceholder"
 
-export default Component
+
+export { BarLoading, SimplePlaceholder }
